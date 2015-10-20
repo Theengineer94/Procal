@@ -1,0 +1,4 @@
+Minimalistisches Design.
+Der Nutzer wird von einem welcomescreen empfangen 
+und man sieht eine 7-tägige vorschau der anstehenden Termine
+und einen Profilbutton der einen in den persöhnlichen Kalender führt. 
