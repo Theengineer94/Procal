@@ -1,0 +1,3 @@
+Eine Kalenderfunktion wird benötigt in der man Termine eintragen und verwalten kann.
+Eine Art Forum zu den jeweiligen eingetragenen Terminen wird ebenfalls benötigt.
+Eine Anmelde / Regestrierfunktion  zum erstellen eines Accounts,  einer Gruppe und eines Profils.
